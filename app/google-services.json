@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "187082895152",
+    "firebase_url": "https://pirtobook-default-rtdb.firebaseio.com",
+    "project_id": "pirtobook",
+    "storage_bucket": "pirtobook.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187082895152:android:89a2c88d66544cf5ad62f5",
+        "android_client_info": {
+          "package_name": "ir.sina.pirtobook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVAcOX0lYGLqLG3MPww2sSTavDvcZ1V1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
